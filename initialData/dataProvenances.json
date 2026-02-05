@@ -1,0 +1,9 @@
+[
+    {
+        "id": "prov-fcs-speculative-v0.1",
+        "version": "0.1",
+        "credibilityLevel": "low:speculative",
+        "sourceIds": "source-llm-chatgpt4o-2025,source-research-detts-2025",
+        "notes": "Filament-Composite-Sim initial data, speculative estimates requiring experimental validation"
+    }
+]
